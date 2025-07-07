@@ -1,18 +1,16 @@
 # RoLe4D_DH - Virtual Reality Robotics Learning Environment
 
-A Unity-based VR application for Digital Humanities robotics education, featuring interactive robot control, teachpad interface, and immersive learning experiences.
+A Unity-based VR application for robotics education, featuring interactive robot control, teachpad interface, and immersive learning experiences.
 
 ## Overview
 
-RoLe4D_DH is a Virtual Reality educational platform designed to teach robotics concepts in an immersive environment. The project combines Unity 3D with VR technologies to create interactive learning experiences with robotic arms, teachpads, and real-time control systems.
+RoLe4D_DH is a Virtual Reality educational platform demonstrator designed to teach robotics concepts in an immersive environment. The project combines Unity 3D with VR technologies to create interactive learning experiences with robotic arms and teachpads.
 
 ## Features
 
 ### 🤖 Robot Simulation
 - **Multi-robot support**: UR10, KUKA industrial robots
 - **Real-time articulation control**: Joint-by-joint manipulation
-- **Inverse kinematics**: Advanced positioning algorithms
-- **Manual and automated control modes**
 
 ### 🎮 VR Interface
 - **Immersive VR environment** with Oculus/OpenXR support
@@ -39,21 +37,6 @@ RoLe4D_DH is a Virtual Reality educational platform designed to teach robotics c
 - **Language**: C# 9.0
 - **VR Support**: OpenXR, Oculus
 - **Physics**: Unity Physics with Articulation Bodies
-
-## Project Structure
-
-```
-RoLe4D_DH_Improved_Teachpad/
-├── Assets/
-│   ├── ArmrobotScripts/          # Robot control scripts
-│   ├── Scenes/                   # Unity scenes
-│   ├── URDF/                     # Robot model definitions
-│   ├── Farland Skies/           # Sky system
-│   └── XR/                       # VR interaction systems
-├── ProjectSettings/              # Unity project configuration
-├── Packages/                     # Package dependencies
-└── UserSettings/                 # User-specific settings
-```
 
 ## Key Scripts
 
@@ -114,7 +97,6 @@ RoLe4D_DH_Improved_Teachpad/
 1. **Robot Basics**: Learn fundamental robot operations
 2. **Programming**: Use the teachpad to create movement sequences
 3. **Safety**: Practice emergency stop procedures
-4. **Advanced Control**: Explore inverse kinematics and complex movements
 
 ## Version History
 
