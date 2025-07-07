@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTC.ViveInputUtility.Editor", "HTC.ViveInputUtility.Editor.csproj", "{F271419C-B5E6-5DB9-424F-7C86C49BF840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTC.ViveInputUtility", "HTC.ViveInputUtility.csproj", "{403887FE-4CD2-5770-DF97-413A2982B718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EC1879EB-E7CA-CA57-86A2-5709BF9AA6D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{FED3C50B-5616-C098-76DB-2F5C753A6E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{88AF9B0D-3E6D-FE3A-32DD-57E0B3D76433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator", "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj", "{8E1A83A1-B481-0735-AA8D-22A67820C008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{4C2553A8-AD65-F34E-F66C-32F8AA04ACA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F271419C-B5E6-5DB9-424F-7C86C49BF840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F271419C-B5E6-5DB9-424F-7C86C49BF840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F271419C-B5E6-5DB9-424F-7C86C49BF840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F271419C-B5E6-5DB9-424F-7C86C49BF840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403887FE-4CD2-5770-DF97-413A2982B718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403887FE-4CD2-5770-DF97-413A2982B718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403887FE-4CD2-5770-DF97-413A2982B718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403887FE-4CD2-5770-DF97-413A2982B718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1879EB-E7CA-CA57-86A2-5709BF9AA6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1879EB-E7CA-CA57-86A2-5709BF9AA6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1879EB-E7CA-CA57-86A2-5709BF9AA6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1879EB-E7CA-CA57-86A2-5709BF9AA6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED3C50B-5616-C098-76DB-2F5C753A6E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED3C50B-5616-C098-76DB-2F5C753A6E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED3C50B-5616-C098-76DB-2F5C753A6E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED3C50B-5616-C098-76DB-2F5C753A6E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AF9B0D-3E6D-FE3A-32DD-57E0B3D76433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AF9B0D-3E6D-FE3A-32DD-57E0B3D76433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AF9B0D-3E6D-FE3A-32DD-57E0B3D76433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AF9B0D-3E6D-FE3A-32DD-57E0B3D76433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1A83A1-B481-0735-AA8D-22A67820C008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1A83A1-B481-0735-AA8D-22A67820C008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1A83A1-B481-0735-AA8D-22A67820C008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1A83A1-B481-0735-AA8D-22A67820C008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2553A8-AD65-F34E-F66C-32F8AA04ACA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2553A8-AD65-F34E-F66C-32F8AA04ACA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2553A8-AD65-F34E-F66C-32F8AA04ACA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2553A8-AD65-F34E-F66C-32F8AA04ACA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

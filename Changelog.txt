@@ -1,0 +1,48 @@
+------------- V 0.3 - TEACHPAD --------------------------------------------------------------
+
+TO-DOS
+E-Stop - clicking toggles. If on robot cannot move. Put message on canvas above teachpad
+Try inverse kinematics
+
+
+------------- V 0.2 -------------------------------------------------------------------------
+===2D Graphics===
+- removed backgrounds from all images, now include alpha channel as background
+- play and pause button images now same size 
+- HSK logo in every room
+
+===Scene===
+- Added low poly skybox
+- added aditional directional light due to weird shadows
+- added second larger FoV camera for desktop
+- changed right controler to straight line raycasting
+- added snap rotation 
+- added player navigation through arrows on the ground
+- FIXED controller rays curving - XR Interactor Line Visual - Bending = 1
+- FIXED right eye skybox rendering - Project Settings - XR - Open XR - Render Mode = multipass 
+- FIXED Controllers have proper color / material  
+
+===Hallway===
+- Added screens with what is happening in each room 
+
+===Cinema Room===
+- made a video Controll panell at the entrance
+- moved start/pause button to the controll panell
+- added rewind and fast forward buttons +- 2s 
+- added HSK logo, addapted brightness manual
+
+===DH Room===
+- robots resized to original size
+- added HSK logo, addapted brightness manual
+- adapted brightness on some wall sprites
+- Whiteboards now all have bold black text
+- Text canvases on whiteboard nearer to whiteboard, repositioned to make it fit better
+- added coordinate system with axis names that follow camera
+- coordinate arrows made thinner on every robot
+
+===Outside====
+- redid trees and nature
+- new trees not animated
+
+===Bugs===
+- cannot grab laptop
